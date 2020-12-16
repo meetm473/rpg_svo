@@ -60,4 +60,4 @@ name “semi-direct”.
 - [Tutorial on VO, part 1](http://www.eng.auburn.edu/~troppel/courses/7970%202015A%20AdvMobRob%20sp15/literature/vis%20odom%20tutor%20part1%20.pdf)
 - [Tutorial on VO, part 2](https://www.zora.uzh.ch/id/eprint/71030/1/Fraundorfer_Scaramuzza_Visual_odometry.pdf)
 - [PPT explaining VO and SVO](http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/VO_Tutorial.pdf)
-- 
+- [Paper controlling drone using SVO](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8540345)
